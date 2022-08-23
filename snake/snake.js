@@ -1,5 +1,5 @@
 ;(function() {
-  var BLOCK_SIZE = 5;
+  var BLOCK_SIZE = 50;
 
   var Game = function() {
     var screen = document.getElementById("screen").getContext('2d');
